@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+newspub.kr	TRUE	/	FALSE	1999999999	nph	np02
+newspub.kr	TRUE	/	FALSE	1999999999	gascap	1765497756318
+newspub.kr	TRUE	/	FALSE	1999999999	npui	693b5b9cce994f291fd33090
+
